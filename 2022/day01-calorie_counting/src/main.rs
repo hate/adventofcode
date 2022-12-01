@@ -24,5 +24,5 @@ fn main() {
     elves.sort_unstable();
 
     // Part 2
-    println!("{}", elves.iter().rev().take(3).sum::<u32>())
+    println!("{}", elves.iter().rev().take(3).sum::<u32>());
 }
