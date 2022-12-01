@@ -8,5 +8,9 @@
 // inventory found in input.txt
 
 fn main() {
-    
+    println!(
+        include_str!(
+            "../input.txt"
+        )
+    );
 }
