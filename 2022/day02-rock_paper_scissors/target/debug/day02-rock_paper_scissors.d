@@ -1,0 +1,1 @@
+/home/lelo/adventofcode/2022/day02-rock_paper_scissors/target/debug/day02-rock_paper_scissors: /home/lelo/adventofcode/2022/day02-rock_paper_scissors/input.txt /home/lelo/adventofcode/2022/day02-rock_paper_scissors/src/main.rs

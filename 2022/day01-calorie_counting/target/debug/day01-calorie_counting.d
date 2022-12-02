@@ -1,1 +1,1 @@
-/home/lelo/projects/adventofcode/2022/day01-calorie_counting/target/debug/day01-calorie_counting: /home/lelo/projects/adventofcode/2022/day01-calorie_counting/input.txt /home/lelo/projects/adventofcode/2022/day01-calorie_counting/src/main.rs
+/home/lelo/adventofcode/2022/day01-calorie_counting/target/debug/day01-calorie_counting: /home/lelo/adventofcode/2022/day01-calorie_counting/input.txt /home/lelo/adventofcode/2022/day01-calorie_counting/src/main.rs
