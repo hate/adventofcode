@@ -1,0 +1,1 @@
+/home/lelo/adventofcode/2022/day03-rucksack_rorganization/target/debug/day03-rucksack_rorganization: /home/lelo/adventofcode/2022/day03-rucksack_rorganization/input.txt /home/lelo/adventofcode/2022/day03-rucksack_rorganization/src/main.rs
